@@ -1,0 +1,57 @@
+body {
+
+
+	font-family: Palatino Linotype;
+
+	background-color: rgb(255,218,185);
+
+	padding: 80px;
+
+}
+.links {
+	color: #1a1a1a;
+
+	position: relative;
+
+	text-align: left;
+}
+.paragraph {
+	color: black;
+
+	position: relative;
+
+	text-align: left;
+
+}
+
+h1 {
+	text-align: center;
+
+	background-color:  #ffa500;
+}
+
+h2 {
+
+	text-align: center;
+
+	background-color:  #ffa500;
+
+}
+
+#test p {
+
+	opacity: 0;
+
+	-webkit-transition: opacity 2s ease-in;
+	-moz-transition: opacity 2s ease-in;
+	-ms-transition: opacity 2s ease-in;
+	-o-transition: opacity 2s ease-in;
+	transition: opacity 2s ease-in;
+
+}
+
+#test p.load {
+
+	opacity: 1;
+
+}

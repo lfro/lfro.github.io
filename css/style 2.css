@@ -1,0 +1,44 @@
+body {
+
+	font-family: Papyrus;
+
+	background-color: #7e6ff3;
+
+	padding: 80px;
+
+}
+.links {
+	color: pink;
+
+	position: relative;
+
+	text-align: left;
+}
+.paragraph {
+	color: black;
+
+	position: relative;
+
+	text-align: left;
+
+
+
+}
+h1 {
+	text-align: center;
+
+	background-color:  #DCD0FF;
+}
+h2 {
+
+	text-align: center;
+
+	background-color:  #DCD0FF;
+
+}
+
+img {
+
+	margin: 30px;
+
+}

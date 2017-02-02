@@ -1,0 +1,1 @@
+$("#test img").addClass("load");
